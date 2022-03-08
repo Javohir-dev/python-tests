@@ -1,3 +1,4 @@
+# login and password test
 login = ['javohir.coder', 'azizcik77', 'javohir77', 'kotta.bolla', 'abbos_98', 'massa_38']
 search = input("\nIltimos login kiriting:\n>>> ")
 search = search.lower()
